@@ -13,7 +13,7 @@ profile:
     Universitätsstraße 1 <br>
     Building: 25.22 <br>
     Foor/Room: 03.56 <br>
-    40225 Düsseldorf <br>
+    40225 Düsseldorf, Germany <br>
     +49 211 8112185 <br>
 
 news: fallse  # includes a list of news items
