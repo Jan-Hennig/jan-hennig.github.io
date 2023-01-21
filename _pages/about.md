@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -21,6 +21,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 Some random test
+
+I am a PhD student in the research training group [GRK 2240: Algebrbo-Geometric Methods in Algebra, Arithmetic and Topology](https://reh.math.uni-duesseldorf.de/~grk2240/index.html). My supervisors are Marcus Zibrowius (HHU) and Matthias Wendt (BUW).
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
