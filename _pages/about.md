@@ -9,12 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    Jan Hennig (he/him)
-    Universitätsstraße 1
+    Jan Hennig (he/him) <br>
+    Universitätsstraße 1 <br>
     Building: 25.22 <br>
-    Foor/Room: 03.56
-    40225 Düsseldorf
-    0123456
+    Foor/Room: 03.56 <br>
+    40225 Düsseldorf <br>
+    +49 211 8112185 <br>
 
 news: fallse  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
