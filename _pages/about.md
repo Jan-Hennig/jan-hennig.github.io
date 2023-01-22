@@ -15,7 +15,7 @@ profile:
     Building: 25.22 <br>
     Foor/Room: 03.56 <br>
     40225 Düsseldorf (Germany) <br>
-    +49 211 8112185 <br>
+    Office: +49 211 8112185 <br>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
