@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     Jan Hennig (he/him) <br>
-    jan.hennig@uni-duesseldorf.de <br>
+    jan.hennig [at] uni-duesseldorf [dot] de <br>
     Universitätsstraße 1 <br>
     Building: 25.22 <br>
     Foor/Room: 03.56 <br>
