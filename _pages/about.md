@@ -25,6 +25,8 @@ I am a PhD student in the research training group [GRK 2240: Algebro-Geometric M
 
 My research interests revolve around algebraic geometry, algebraic topology and their interactions. More specifically this includes algebraic K-theory and motivic homotopy theory. The current project I am working on is about Chow-Witt rings and (quadratically) refined enumerative geometry.
 
+Testing!
+
 [//]: # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 [//]: # Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
