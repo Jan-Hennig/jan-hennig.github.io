@@ -1,5 +1,4 @@
 ---
-#CHeck the text belwo for dropdown menus
 layout: page
 title: submenus Changed
 nav: true
