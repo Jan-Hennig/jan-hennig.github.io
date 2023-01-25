@@ -4,9 +4,15 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Jan
+<<<<<<< HEAD
 middle_name:
 last_name: Hennig
 email: jan.hennig@uni-duesseldorf.de
+=======
+middle_name: 
+last_name: Hennig
+email: you@example.com
+>>>>>>> eab89f4dcff74854c8cfe2c0f829ef0b1e513a3b
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is my personal academic webpage
 footer_text: >
