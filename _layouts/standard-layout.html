@@ -2,7 +2,6 @@
 <!-- _layouts/standard-layout.html -->
 <html>
   <head>
-
     {%- include head.html %}
 
     {% include scripts/jquery.html %}
@@ -22,7 +21,6 @@
   <body class="{%- if site.navbar_fixed -%}fixed-top-nav{%- endif -%} {%- unless site.footer_fixed -%}sticky-bottom-footer{%- endunless -%}">
 
     <!-- Header -->
-    <br>
     {%- include header.html %}
 
     <!-- Content -->
@@ -70,7 +68,5 @@
       {%- endif -%}
 
     </div>
-
-    <!-- Footer -->
   </body>
 </html>
