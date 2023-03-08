@@ -1,5 +1,5 @@
 ---
-layout: talks-layout
+layout: standard-layout
 permalink: /conferences/
 title: Conferences/summer schools
 description: Maybe you have seen me at one of the following events

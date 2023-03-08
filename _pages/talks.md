@@ -1,5 +1,5 @@
 ---
-layout: talks-layout
+layout: standard-layout
 permalink: /talks/
 title: Talks
 description: Collection of talks I gave in various seminars

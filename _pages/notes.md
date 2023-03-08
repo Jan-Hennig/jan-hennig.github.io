@@ -1,5 +1,5 @@
 ---
-layout: talks-layout
+layout: standard-layout
 permalink: /notes/
 title: Notes
 description:
