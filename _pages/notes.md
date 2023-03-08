@@ -6,9 +6,7 @@ description:
 nav: true
 nav_order: 3
 ---
-
 Sadly I did not put any notes here ... yet.
-
 ***
 
 ## Miscellaneous
