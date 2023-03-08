@@ -7,10 +7,10 @@ nav: true
 nav_order: 3
 ---
 
-Sadly I did not put any notes her ... yet.
+Sadly I did not put any notes here ... yet.
 
 ***
 
 ## Miscellaneous
 
-- On 12.03.2022 the HHU organised a public event for the "International Day of Mathematics" in which PhD students presented their research topics ([news](https://www.hhu.de/news-einzelansicht/so-innovativ-und-spannend-kann-mathematik-sein) (in german)). <br/> I presented a [poster](/assets/pdf/Poster_TagDerMathematik.pdf) there too (this is a typographically improved version, also in german).
+- On 12.03.2022 the HHU organised a public event for the "International Day of Mathematics"  where PhD students presented their research topics ([news](https://www.hhu.de/news-einzelansicht/so-innovativ-und-spannend-kann-mathematik-sein) (in german)). <br/> I presented a [poster](/assets/pdf/Poster_TagDerMathematik.pdf) there too (this is a typographically improved version, also in german).
