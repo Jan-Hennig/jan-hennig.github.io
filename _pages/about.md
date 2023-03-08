@@ -24,4 +24,4 @@ I am a PhD student in the research training group [GRK 2240: Algebro-Geometric M
 
 My research interests revolve around algebraic geometry, algebraic topology and their interactions. More specifically this includes algebraic K-theory and motivic homotopy theory. The current project I am working on is about Chow-Witt rings and (quadratically) refined enumerative geometry.
 
-We are online.
+We are online. Now?
