@@ -10,6 +10,7 @@ profile:
   address: >
     Jan Hennig (he/him)<br>
     jan.hennig [at] uni-duesseldorf.de<br>
+		Heinrich-Heine-Universität Düsseldorf<br>
     Universitätsstraße 1<br>
     40225 Düsseldorf (Germany)<br>
     Building: 25.22<br>
