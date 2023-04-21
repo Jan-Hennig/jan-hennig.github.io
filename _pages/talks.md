@@ -7,10 +7,16 @@ nav: true
 nav_order: 2
 
 toc:
+	- name: "2023"
   - name: "2022"
   - name: "2021"
 
 ---
+
+## 2023
+- "Motivic Eilenberg-MacLane spaces and cohomology operations" in Motives Seminar (Essen) "Motivic Steenrod operations", 18.04.2023, [link](https://www.esaga.uni-due.de/marc.levine/Courses/2023/MotivesSeminarSS/)
+
+***
 
 ## 2022
 - "Chow-Witt rings of Grassmanians, III: Geometric interpretation of oriented intersection multiplicities" in Motives Seminar (Essen) "Quadratic intersection theory and characteristic classes", 13.12.2022, [link](https://www.esaga.net/marc.levine/Courses/2022/MotivesSeminarWS/)
