@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 
 toc:
-	- name: "2023"
+  - name: "2023"
   - name: "2022"
   - name: "2021"
 
