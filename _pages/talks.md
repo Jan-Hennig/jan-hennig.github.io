@@ -20,7 +20,7 @@ toc:
 
 ## 2022
 - "Chow-Witt rings of Grassmanians, III: Geometric interpretation of oriented intersection multiplicities" in Motives Seminar (Essen) "Quadratic intersection theory and characteristic classes", 13.12.2022, [link](https://www.esaga.net/marc.levine/Courses/2022/MotivesSeminarWS/)
- "Toric varieties", 10.11.2022, [link](https://www.math.uni-duesseldorf.de/~grk2240/workshop_WS2223.html)
+- "Computing the topological fundamental group" in GRK Workshop "Toric varieties", 10.11.2022, [link](https://www.math.uni-duesseldorf.de/~grk2240/workshop_WS2223.html)
 - "Global aspects" in Oberseminar Algebraic Geometry "Elliptic surfaces", 31.10.2022, [link](https://reh.math.uni-duesseldorf.de/~schroeer/22_ws_Oberseminar/Oberseminar_AlgebraischeGeometrie_ws2022.html)
 - "Buildings" in GRK Workshop "Buildings", 02.06.2022, [link](https://www.math.uni-duesseldorf.de/~grk2240/workshop_SS22.html)
 - "Bittner's presentation" in Oberseminar Algebraic Geometry "Motivic integration", 23.05.2022, [link](https://reh.math.uni-duesseldorf.de/%7Eschroeer/22_ss_Oberseminar/Oberseminar_AlgebraischeGeometrie_ss2022.html)
