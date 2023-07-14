@@ -14,6 +14,7 @@ toc:
 ---
 
 ## 2023
+- "Why triangles? (Because 4 is even)" in GRK in GRK non-professor meeting (Gongshow), 13.07.2023, [link](https://www.math.uni-duesseldorf.de/~grk2240/schedule_SS23.html)
 - "Setting up" in GRK Workshop "Modular curves", 15.06.2023, [link](https://www.math.uni-duesseldorf.de/~grk2240/schedule_SS23.html)
 - "Comparison with unstable homotopy groups" in Talbot 2023 "Computations in stable motivic homotopy theory" (McGrath, MN, USA), 09.06.2023, [link](https://math.mit.edu/events/talbot/index.php?year=2023)
 - "Quadratic intersection theory on moduli spaces" in Advanced group theory seminar "What are you working on?", 23.05.2023, [link](https://www.math.uni-duesseldorf.de/~internet/Seminar_Groups/)
