@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 
 toc:
+	- name: "Upcoming"
   - name: "2023"
   - name: "2022"
   - name: "2021"
@@ -14,8 +15,14 @@ toc:
 
 ---
 
+## Upcoming
+
+- European autumn school in topology 2023 (EAST 2023), 18.09. - 22.09.2023, Utrecht, Netherlands, [link](https://www.math.ru.nl/~sagave/east2023/)
+
 ## 2023
 
+- Homotopy theory, K-theory, and trace methods, 05.07. - 07.07.2023, Radboud University Nijmegen, Nijmegen, Netherlands, [link](https://www.math.ru.nl/hkt-conference/)
+- Motivic and non-commutative aspects of enumerative geometry, 03.07. - 05.07.2023, Radbound University Nijmegen, Nijmegen, Netherlands, [link](https://www.math.ru.nl/mnc-conference/)
 - Talbot 2023 "Computations in stable motivic homotopy theory", 04.06. - 10.06.2023, MIT, McGrath, MN, USA, [link](https://math.mit.edu/events/talbot/index.php?year=2023)
 
 ***
