@@ -21,15 +21,19 @@ toc:
 
 ## 2023
 
+- GRK summer school on The automorphic side of the p-adic Langlands program, 31.07. - 04.08.2023, BUW, Wuppertal, Germany, [link](https://summerschool2023.uni-wuppertal.de/en/)
+
 - Homotopy theory, K-theory, and trace methods, 05.07. - 07.07.2023, Radboud University Nijmegen, Nijmegen, Netherlands, [link](https://www.math.ru.nl/hkt-conference/)
+
 - Motivic and non-commutative aspects of enumerative geometry, 03.07. - 05.07.2023, Radbound University Nijmegen, Nijmegen, Netherlands, [link](https://www.math.ru.nl/mnc-conference/)
+
 - Talbot 2023 "Computations in stable motivic homotopy theory", 04.06. - 10.06.2023, MIT, McGrath, MN, USA, [link](https://math.mit.edu/events/talbot/index.php?year=2023)
 
 ***
 
 ## 2022
 
-- Summer School on Motivic integration, 12.09. - 16.09.2022, HHU, Düsseldorf, Germany, [link](https://reh.math.uni-duesseldorf.de/~internet/motivicsummerschool/)
+- GRK summer School on Motivic integration, 12.09. - 16.09.2022, HHU, Düsseldorf, Germany, [link](https://reh.math.uni-duesseldorf.de/~internet/motivicsummerschool/)
 
 - Harnessing motivic invariants, 27.06. - 01.07.2022, UDE, Essen, Germany, [link](https://motivic-invariants-2022.esaga.net/)
 
@@ -43,7 +47,7 @@ toc:
 
 - Summer school and conference on the six-functor formalism and motivic homotopy theory, 20.09. - 24.09.2021, Milano, Italy, (online), [link](https://sites.google.com/view/summer-school-motivic/home)
 
-- Summer school on derived and triangulated categories, 13.09. - 17.09.2021, BUW, Wuppertal, Germany, (online), [link](https://reh.math.uni-duesseldorf.de/~grk2240/Summerschool_GRK2021/Summerschool_index.html)
+- GRK summer school on Derived and triangulated categories, 13.09. - 17.09.2021, BUW, Wuppertal, Germany, (online), [link](https://reh.math.uni-duesseldorf.de/~grk2240/Summerschool_GRK2021/Summerschool_index.html)
 
 - PCMI Workshop: An introduction to motivic homotopy theory and its applications, 12.07. - 16.07.2021, IAS/PCMI, USA, (online), [link](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions)
 
