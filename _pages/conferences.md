@@ -33,7 +33,7 @@ toc:
 
 ## 2022
 
-- GRK summer School on Motivic integration, 12.09. - 16.09.2022, HHU, Düsseldorf, Germany, [link](https://reh.math.uni-duesseldorf.de/~internet/motivicsummerschool/)
+- GRK summer school on Motivic integration, 12.09. - 16.09.2022, HHU, Düsseldorf, Germany, [link](https://reh.math.uni-duesseldorf.de/~internet/motivicsummerschool/)
 
 - Harnessing motivic invariants, 27.06. - 01.07.2022, UDE, Essen, Germany, [link](https://motivic-invariants-2022.esaga.net/)
 
