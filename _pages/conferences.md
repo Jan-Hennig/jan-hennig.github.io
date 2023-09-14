@@ -21,6 +21,8 @@ toc:
 
 ## 2023
 
+- SPP 1786 Abschlusstagung, 23.08. - 25.08.2023, UDE, Essen, Germany, [link](https://spp1786-2023.esaga.net)
+
 - GRK summer school on The automorphic side of the p-adic Langlands program, 31.07. - 04.08.2023, BUW, Wuppertal, Germany, [link](https://summerschool2023.uni-wuppertal.de/en/)
 
 - Homotopy theory, K-theory, and trace methods, 05.07. - 07.07.2023, Radboud University Nijmegen, Nijmegen, Netherlands, [link](https://www.math.ru.nl/hkt-conference/)
