@@ -17,9 +17,11 @@ toc:
 
 ## Upcoming
 
-- European autumn school in topology 2023 (EAST 2023), 18.09. - 22.09.2023, Utrecht, Netherlands, [link](https://www.math.ru.nl/~sagave/east2023/)
+- nothing further planned yet
 
 ## 2023
+
+- European autumn school in topology 2023 (EAST 2023), 18.09. - 22.09.2023, Utrecht, Netherlands, [link](https://www.math.ru.nl/~sagave/east2023/)
 
 - SPP 1786 Abschlusstagung, 23.08. - 25.08.2023, UDE, Essen, Germany, [link](https://spp1786-2023.esaga.net)
 
