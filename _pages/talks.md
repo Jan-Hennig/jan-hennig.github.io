@@ -14,8 +14,9 @@ toc:
 ---
 
 ## 2023
+- "Fibre bundles" (stand-in) in GRK Workshop "Characteristic classes", 02.11.2023, [link](https://grk2240.uni-wuppertal.de/schedule_WS2324.html)
 - "Chow rings" at European autumn school in topology 2023 (EAST 2023, Utrecht, Netherlands), 18.09.2023, [link](https://www.math.ru.nl/~sagave/east2023/)
-- "Why triangles? (Because 4 is even)" in GRK in GRK non-professor meeting (Gongshow), 13.07.2023, [link](https://www.math.uni-duesseldorf.de/~grk2240/schedule_SS23.html)
+- "Why triangles? (Because 4 is even)" in GRK non-professor meeting (Gongshow), 13.07.2023, [link](https://www.math.uni-duesseldorf.de/~grk2240/schedule_SS23.html)
 - "Setting up" in GRK Workshop "Modular curves", 15.06.2023, [link](https://www.math.uni-duesseldorf.de/~grk2240/schedule_SS23.html)
 - "Comparison with unstable homotopy groups" at Talbot 2023 "Computations in stable motivic homotopy theory" (McGrath, MN, USA), 09.06.2023, [link](https://math.mit.edu/events/talbot/index.php?year=2023)
 - "Quadratic intersection theory on moduli spaces" in Advanced group theory seminar "What are you working on?", 23.05.2023, [link](https://www.math.uni-duesseldorf.de/~internet/Seminar_Groups/)
@@ -31,7 +32,7 @@ toc:
 - "Global aspects" in Oberseminar Algebraic Geometry "Elliptic surfaces", 31.10.2022, [link](https://reh.math.uni-duesseldorf.de/~schroeer/22_ws_Oberseminar/Oberseminar_AlgebraischeGeometrie_ws2022.html)
 - "Buildings" in GRK Workshop "Buildings", 02.06.2022, [link](https://www.math.uni-duesseldorf.de/~grk2240/workshop_SS22.html)
 - "Bittner's presentation" in Oberseminar Algebraic Geometry "Motivic integration", 23.05.2022, [link](https://reh.math.uni-duesseldorf.de/%7Eschroeer/22_ss_Oberseminar/Oberseminar_AlgebraischeGeometrie_ss2022.html)
-- "A bit Chow-Witt and quadratically refined enumerative geometry" in GRK Non-professor meeting, 14.04.2022, [link](https://www.math.uni-duesseldorf.de/~grk2240/schedule_SS22.html)
+- "A bit Chow-Witt and quadratically refined enumerative geometry" in GRK non-professor meeting, 14.04.2022, [link](https://www.math.uni-duesseldorf.de/~grk2240/schedule_SS22.html)
 
 *** 
 
