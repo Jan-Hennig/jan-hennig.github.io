@@ -15,7 +15,7 @@ toc:
 ---
 
 ## 2024
-- "The motivic Euler characteristic and transfer maps" in Motives Seminar (Essen) "An arithmetic Yau-Zaslow formula: K_0(Var_k), GW(k) and quadratic GW invariants", 09.01.2024, [link](https://www.esaga.net/marc.levine/Course/2023/MotivesSeminarWS/)
+- "The motivic Euler characteristic and transfer maps" in Motives Seminar (Essen) "An arithmetic Yau-Zaslow formula: K_0(Var_k), GW(k) and quadratic GW invariants", 09.01.2024, [link](https://www.esaga.net/marc.levine/Courses/2023/MotivesSeminarWS/)
 
 ***
 
