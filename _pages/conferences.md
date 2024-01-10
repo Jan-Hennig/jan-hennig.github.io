@@ -7,17 +7,12 @@ nav: true
 nav_order: 4
 
 toc:
-  - name: "Upcoming"
   - name: "2023"
   - name: "2022"
   - name: "2021"
   - name: "2019"
 
 ---
-
-## Upcoming
-
-- nothing further planned yet
 
 ## 2023
 
