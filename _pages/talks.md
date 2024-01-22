@@ -15,6 +15,7 @@ toc:
 ---
 
 ## 2024
+- "The second proof" in Oberseminar Algebraic Geometry "Irreducibility of the space of curves", 22.01.2024, [link](https://reh.math.uni-duesseldorf.de/~schroeer/23_ws_Oberseminar/Oberseminar_AlgebraischeGeometrie_ws2023.html)
 - "The motivic Euler characteristic and transfer maps" in Motives Seminar (Essen) "An arithmetic Yau-Zaslow formula: K_0(Var_k), GW(k) and quadratic GW invariants", 09.01.2024, [link](https://www.esaga.net/marc.levine/Courses/2023/MotivesSeminarWS/)
 
 ***
