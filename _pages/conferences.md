@@ -7,12 +7,18 @@ nav: true
 nav_order: 4
 
 toc:
+  - name: "2024"
   - name: "2023"
   - name: "2022"
   - name: "2021"
   - name: "2019"
 
 ---
+## 2024
+
+- Winter school on unstable motivic homotopy theory (WSUMHT24), 11.03. - 15.03.2024, JGU, Mainz, Germany, [link](https://sites.google.com/view/wsumht24/home)
+
+***
 
 ## 2023
 
