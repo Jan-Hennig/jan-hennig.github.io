@@ -15,6 +15,7 @@ toc:
 ---
 
 ## 2024
+- "Quadratically refined intersection theory on $$\overline{M_{0,n}}$$" in Seminar on nonlinear algebra (MPI Leipzig), 04.04.2024, [link](https://www.mis.mpg.de/de/events/event/quadratically-refined-intersection-theory-on-m0n)
 - "The second proof" in Oberseminar Algebraic Geometry "Irreducibility of the space of curves", 22.01.2024, [link](https://reh.math.uni-duesseldorf.de/~schroeer/23_ws_Oberseminar/Oberseminar_AlgebraischeGeometrie_ws2023.html)
 - "The motivic Euler characteristic and transfer maps" in Motives Seminar (Essen) "An arithmetic Yau-Zaslow formula: K_0(Var_k), GW(k) and quadratic GW invariants", 09.01.2024, [link](https://www.esaga.net/marc.levine/Courses/2023/MotivesSeminarWS/)
 
