@@ -12,4 +12,6 @@ toc:
 
 ## Homologische Algebra SS24
 Übungsblätter:
-[Blatt 1](/assets/pdf/Homologische_Algebra_Blatt1.pdf)
+
+-[Blatt 1](/assets/pdf/Homologische_Algebra_Blatt1.pdf)
+
