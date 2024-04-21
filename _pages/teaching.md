@@ -16,3 +16,5 @@ toc:
 - [Blatt 1](/assets/pdf/Homologische_Algebra_Blatt1.pdf){:target="_blank" rel="noopener"}
 
 - [Blatt 2](/assets/pdf/Homologische_Algebra_Blatt2.pdf){:target="_blank" rel="noopener"}
+
+- [Blatt 3](/assets/pdf/Homologische_Algebra_Blatt3.pdf){:target="_blank" rel="noopener"}
