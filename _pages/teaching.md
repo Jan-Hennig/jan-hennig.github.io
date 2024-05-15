@@ -11,6 +11,9 @@ toc:
 ---
 
 ## Homologische Algebra SS24
+
+Vorlesungsseite: [link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ss_HA.html)
+
 Übungsblätter:
 
 - [Blatt 1](/assets/pdf/Homologische_Algebra_Blatt1.pdf){:target="_blank" rel="noopener"}
@@ -20,3 +23,7 @@ toc:
 - [Blatt 3](/assets/pdf/Homologische_Algebra_Blatt3.pdf){:target="_blank" rel="noopener"}
 
 - [Blatt 4](/assets/pdf/Homologische_Algebra_Blatt4.pdf){:target="_blank" rel="noopener"}
+
+- [Blatt 5](/assets/pdf/Homologische_Algebra_Blatt5.pdf){:target="_blank" rel="noopener"}
+ 
+- [Blatt 6](/assets/pdf/Homologische_Algebra_Blatt6.pdf){:target="_blank" rel="noopener"}
