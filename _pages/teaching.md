@@ -27,3 +27,7 @@ Vorlesungsseite: [link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ss_HA
 - [Blatt 5](/assets/pdf/Homologische_Algebra_Blatt5.pdf){:target="_blank" rel="noopener"}
  
 - [Blatt 6](/assets/pdf/Homologische_Algebra_Blatt6.pdf){:target="_blank" rel="noopener"}
+
+- [Blatt 7](/assets/pdf/Homologische_Algebra_Blatt7.pdf){:target="_blank" rel="noopener"}
+ 
+- [Blatt 8](/assets/pdf/Homologische_Algebra_Blatt8.pdf){:target="_blank" rel="noopener"}
