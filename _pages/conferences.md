@@ -16,6 +16,8 @@ toc:
 ---
 ## 2024
 
+- PCMI Research program: Motivic homotopy theory, 07.07. - 27.07.2024, IAS/PCMI, Park City, Utah, USA, [link](https://www.ias.edu/pcmi/pcmi-2024-research-program)
+
 - Winter school on unstable motivic homotopy theory (WSUMHT24), 11.03. - 15.03.2024, JGU, Mainz, Germany, [link](https://sites.google.com/view/wsumht24/home)
 
 ***
