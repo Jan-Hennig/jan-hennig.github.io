@@ -14,7 +14,7 @@ Sadly I did not put any notes here ... yet.
 ***
 
 ## Organisation
-- Together with Daniel Echtler, I organised the GRK workshop WS23/24 "Characteristic classes" [program](/assets/pdf/grk_workshop_charclasses.pdf){:target="_blank" rel="noopener"}
+- Together with [Daniel Echtler](https://www.math.uni-duesseldorf.de/~echtler/){:target="_blank" rel="noopener"}, I organised the GRK workshop WS23/24 "Characteristic classes" [program](/assets/pdf/grk_workshop_charclasses.pdf){:target="_blank" rel="noopener"}
 
 ## Miscellaneous
 - I wrote part of the notes for the Talbot workshop 2023 "Computations in stable motivic homotopy theory" (for my own talk 17), [link](https://sites.google.com/view/talbotworkshop/past-talbots/talbot-2023)
