@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-Sadly I did not put any notes here ... yet.
+Sadly I did not put any notes here ... yet, except:
 
 - "Quadratic forms and Galois cohomology: The connection (Milnor's conjectures)", part three in a short introduction session, [slides](/assets/pdf/Milnor_Conjectures_Short_Presentation_Handout.pdf){:target="_blank" rel="noopener"}
 
