@@ -15,6 +15,8 @@ toc:
 ---
 
 ## 2024
+
+- "The connection (Milnor's conjectures)" part of a three part mini-course "Quadratic forms and Galois cohomology" at GRK retreat, 12.09.2024, [link](https://www2.math.uni-wuppertal.de/~ruelling/GRK-Retreat2024/Program.html), [slides](/assets/pdf/Milnor_Conjectures_Short_Presentation_Handout.pdf){:target="_blank" rel="noopener"}
 - "A cellular (co)homology computation for $$\bar{M}_{0,n}$$" in Research program seminar, at PCMI/IAS 2024 Motivic homotopy theory (Park City, Utah, USA), 18.07.2024
 - "A weakly-cellular Whitehead tower and consequences" in Motives Seminar (Essen) "The motivic Freudenthal suspension theorem, following Asok, Bachmann and Hopkins", 04.06.2024, [link](https://www.esaga.net/marc.levine/Courses/2024/MotivesSeminarSS/)
 - "Quadratically refined intersection theory on $$\bar{M}_{0,n}$$" in Seminar on nonlinear algebra (MPI Leipzig), 04.04.2024, [link](https://www.mis.mpg.de/de/events/event/quadratically-refined-intersection-theory-on-m0n)
