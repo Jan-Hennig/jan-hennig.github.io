@@ -10,6 +10,14 @@ toc:
   - name: "Homologische Algebra SS24"
 ---
 
+## Topologie WS24/25
+
+Vorlesungsseite: [link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ws_top.html)
+
+Übungsblätter:
+[Blatt 1](/assets/pdf/TopologieWS2425/Topologie_Blatt01.pdf){:target="_blank" rel="noopener"}, 
+
+---
 ## Homologische Algebra SS24
 
 Vorlesungsseite: [link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ss_HA.html)
