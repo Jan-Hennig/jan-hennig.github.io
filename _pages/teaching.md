@@ -17,6 +17,9 @@ Vorlesungsseite: [link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ws_to
 Übungsblätter:
 [Blatt 1](/assets/pdf/TopologieWS2425/Topologie_Blatt01.pdf){:target="_blank" rel="noopener"}.
 
+Korrektur:
+[Korrektur zu Blatt 1](/assets/pdf/TopologieWS2425/Topologie_Blatt01_Korrektur.pdf){:target="_blank" rel="noopener"}.
+
 ---
 ## Homologische Algebra SS24
 
