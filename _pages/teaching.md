@@ -7,6 +7,7 @@ nav: true
 nav_order: 5
 
 toc:
+  - name: "Topologie I WS24/25"
   - name: "Homologische Algebra SS24"
 ---
 
