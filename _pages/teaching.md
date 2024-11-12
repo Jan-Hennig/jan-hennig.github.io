@@ -11,7 +11,7 @@ toc:
   - name: "Homologische Algebra SS24"
 ---
 
-## Topologie WS24/25
+## Topologie I WS24/25
 
 Vorlesungsseite: [link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ws_top.html)
 
