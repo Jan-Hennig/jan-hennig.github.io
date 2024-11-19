@@ -13,7 +13,8 @@ toc:
 
 ## Topologie I WS24/25
 
-Vorlesungsseite: [link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ws_top.html)
+Vorlesungsseite: 
+[link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ws_top.html)
 
 Übungsblätter:
 [Blatt 1](/assets/pdf/TopologieWS2425/Topologie_Blatt01.pdf){:target="_blank" rel="noopener"}, 
@@ -25,12 +26,14 @@ Vorlesungsseite: [link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ws_to
 Korrektur:
 [Korrektur zu Blatt 1](/assets/pdf/TopologieWS2425/Topologie_Blatt01_Korrektur.pdf){:target="_blank" rel="noopener"}.
 
-Lösung:[Lösung zu Blatt 4, Aufgabe 3](/assets/pdf/TopologieWS2425/Topologie_Blatt04_Aufgabe3_Loesung.pdf){:target="_blank" rel="noopener"}.
+Lösung:
+[Lösung zu Blatt 4, Aufgabe 3](/assets/pdf/TopologieWS2425/Topologie_Blatt04_Aufgabe3_Loesung.pdf){:target="_blank" rel="noopener"}.
 
 ---
 ## Homologische Algebra SS24
 
-Vorlesungsseite: [link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ss_HA.html)
+Vorlesungsseite: 
+[link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ss_HA.html)
 
 Übungsblätter:
 [Blatt 1](/assets/pdf/HomologischeAlgebraSS24/Homologische_Algebra_Blatt01.pdf){:target="_blank" rel="noopener"}, 
