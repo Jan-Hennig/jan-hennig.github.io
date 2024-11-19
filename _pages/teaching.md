@@ -19,7 +19,8 @@ Vorlesungsseite: [link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ws_to
 [Blatt 1](/assets/pdf/TopologieWS2425/Topologie_Blatt01.pdf){:target="_blank" rel="noopener"}, 
 [Blatt 2](/assets/pdf/TopologieWS2425/Topologie_Blatt02.pdf){:target="_blank" rel="noopener"},
 [Blatt 3](/assets/pdf/TopologieWS2425/Topologie_Blatt03.pdf){:target="_blank" rel="noopener"},
-[Blatt 4](/assets/pdf/TopologieWS2425/Topologie_Blatt04.pdf){:target="_blank" rel="noopener"}.
+[Blatt 4](/assets/pdf/TopologieWS2425/Topologie_Blatt04.pdf){:target="_blank" rel="noopener"},
+[Blatt 5](/assets/pdf/TopologieWS2425/Topologie_Blatt05.pdf){:target="_blank" rel="noopener"}.
 
 Korrektur:
 [Korrektur zu Blatt 1](/assets/pdf/TopologieWS2425/Topologie_Blatt01_Korrektur.pdf){:target="_blank" rel="noopener"}.
@@ -33,7 +34,7 @@ Vorlesungsseite: [link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ss_HA
 
 Übungsblätter:
 [Blatt 1](/assets/pdf/HomologischeAlgebraSS24/Homologische_Algebra_Blatt01.pdf){:target="_blank" rel="noopener"}, 
-[Blatt 2](/assets/pdfHomologischeAlgebraSS24//Homologische_Algebra_Blatt02.pdf){:target="_blank" rel="noopener"},
+[Blatt 2](/assets/pdf/HomologischeAlgebraSS24/Homologische_Algebra_Blatt02.pdf){:target="_blank" rel="noopener"},
 [Blatt 3](/assets/pdf/HomologischeAlgebraSS24/Homologische_Algebra_Blatt03.pdf){:target="_blank" rel="noopener"},
 [Blatt 4](/assets/pdf/HomologischeAlgebraSS24/Homologische_Algebra_Blatt04.pdf){:target="_blank" rel="noopener"},
 [Blatt 5](/assets/pdf/HomologischeAlgebraSS24/Homologische_Algebra_Blatt05.pdf){:target="_blank" rel="noopener"},
