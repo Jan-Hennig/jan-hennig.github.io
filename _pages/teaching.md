@@ -21,7 +21,8 @@ Vorlesungsseite:
 [Blatt 2](/assets/pdf/TopologieWS2425/Topologie_Blatt02.pdf){:target="_blank" rel="noopener"},
 [Blatt 3](/assets/pdf/TopologieWS2425/Topologie_Blatt03.pdf){:target="_blank" rel="noopener"},
 [Blatt 4](/assets/pdf/TopologieWS2425/Topologie_Blatt04.pdf){:target="_blank" rel="noopener"},
-[Blatt 5](/assets/pdf/TopologieWS2425/Topologie_Blatt05.pdf){:target="_blank" rel="noopener"}.
+[Blatt 5](/assets/pdf/TopologieWS2425/Topologie_Blatt05.pdf){:target="_blank" rel="noopener"},
+[Blatt 6](/assets/pdf/TopologieWS2425/Topologie_Blatt06.pdf){:target="_blank" rel="noopener"}.
 
 Korrektur:
 [Korrektur zu Blatt 1](/assets/pdf/TopologieWS2425/Topologie_Blatt01_Korrektur.pdf){:target="_blank" rel="noopener"}.
