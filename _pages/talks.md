@@ -16,6 +16,8 @@ toc:
 
 ## 2024
 
+- "The theorem of Jacobsen and $$\rho$$-stable homotopy modules" in Motives Seminar (Essen) "Motivic and real étale stable homotopy theory", 26.11.2024, [link](https://www.esaga.net/marc.levine/Courses/2024/MotivesSeminarWS/)
+- "Abstract class field theory" in Oberseminar Algebra und Geometrie "Local class field theory", 15.11.2024, [link](https://www.math.uni-duesseldorf.de/~internet/OberseminarAlgGeo/)
 - "The connection (Milnor's conjectures)" part of a three part mini-course "Quadratic forms and Galois cohomology" at GRK retreat, 12.09.2024, [link](https://www2.math.uni-wuppertal.de/~ruelling/GRK-Retreat2024/Program.html), [slides](/assets/pdf/Milnor_Conjectures_Short_Presentation_Handout.pdf){:target="_blank" rel="noopener"}
 - "A cellular (co)homology computation for $$\bar{M}_{0,n}$$" in Research program seminar, at PCMI/IAS 2024 Motivic homotopy theory (Park City, Utah, USA), 18.07.2024
 - "A weakly-cellular Whitehead tower and consequences" in Motives Seminar (Essen) "The motivic Freudenthal suspension theorem, following Asok, Bachmann and Hopkins", 04.06.2024, [link](https://www.esaga.net/marc.levine/Courses/2024/MotivesSeminarSS/)
@@ -31,8 +33,8 @@ toc:
 - "Why triangles? (Because 4 is even)" in GRK non-professor meeting (Gongshow), 13.07.2023, [link](https://www.math.uni-duesseldorf.de/~grk2240/schedule_SS23.html)
 - "Setting up" in GRK Workshop "Modular curves", 15.06.2023, [link](https://www.math.uni-duesseldorf.de/~grk2240/schedule_SS23.html)
 - "Comparison with unstable homotopy groups" at Talbot 2023 "Computations in stable motivic homotopy theory" (McGrath, MN, USA), 09.06.2023, [link](https://math.mit.edu/events/talbot/index.php?year=2023)
-- "Quadratic intersection theory on moduli spaces" in Advanced group theory seminar "What are you working on?", 23.05.2023, [link](https://www.math.uni-duesseldorf.de/~internet/Seminar_Groups/)
-- "The Alexander polynomial" in Oberseminar Algebra und Geometrie "Knot theory and quandles", 12.05.2023, [link](https://www.math.uni-duesseldorf.de/~internet/OberseminarAlgGeo/)
+- "Quadratic intersection theory on moduli spaces" in Advanced group theory seminar "What are you working on?", 23.05.2023, [link](https://www.math.uni-duesseldorf.de/~internet/Seminar_Groups/seminarS23.html)
+- "The Alexander polynomial" in Oberseminar Algebra und Geometrie "Knot theory and quandles", 12.05.2023, [link](https://www.math.uni-duesseldorf.de/~internet/OberseminarAlgGeo/Archiv/Schedule_SS23.html)
 - "Bounded t-structures and tilting" in Oberseminar Algebraic Geometry "Bridgeland stability conditions", 08.05.2023, [link](https://reh.math.uni-duesseldorf.de/~schroeer/23_ss_Oberseminar/Oberseminar_AlgebraischeGeometrie_ss2023.html)
 - "Motivic Eilenberg-MacLane spaces and cohomology operations" in Motives Seminar (Essen) "Motivic Steenrod operations", 18.04.2023, [link](https://www.esaga.uni-due.de/marc.levine/Courses/2023/MotivesSeminarSS/)
 
