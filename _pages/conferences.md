@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 
 toc:
+  - name: "2025"
   - name: "2024"
   - name: "2023"
   - name: "2022"
@@ -14,6 +15,10 @@ toc:
   - name: "2019"
 
 ---
+## 2025
+
+- Motivic homotopy theory, 17.03. - 21.03.2025, SFB1085, Regensburg, Germany, [link](https://sfb-higher-invariants.app.uni-regensburg.de/index.php?title=Motivic_homotopy_theory_2025)
+
 ## 2024
 
 - GRK summer school on Analytic and arithmetic groups, 19.08. - 23.08.2024, HHU, Düsseldorf, Germany, [link](https://www.math.uni-duesseldorf.de/~internet/summer.school.2024/)
