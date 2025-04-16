@@ -7,10 +7,19 @@ nav: true
 nav_order: 5
 
 toc:
+  - name: "Topologie II SS25"
   - name: "Topologie I WS24/25"
   - name: "Homologische Algebra SS24"
 ---
 
+## Topologie II SS24/25
+Vorlesungsseite: 
+[link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ws_top.html)
+
+Übungsblätter:
+[Blatt 1](/assets/pdf/TopologieSS25/Topologie_Blatt01.pdf){:target="_blank" rel="noopener"}.
+
+---
 ## Topologie I WS24/25
 
 Vorlesungsseite: 
