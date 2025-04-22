@@ -17,7 +17,8 @@ Vorlesungsseite:
 [link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ws_top.html)
 
 Übungsblätter:
-[Blatt 1](/assets/pdf/TopologieSS25/Topologie_Blatt01.pdf){:target="_blank" rel="noopener"}.
+[Blatt 1](/assets/pdf/TopologieSS25/Topologie_Blatt01.pdf){:target="_blank" rel="noopener"},
+[Blatt 2](/assets/pdf/TopologieSS25/Topologie_Blatt02.pdf){:target="_blank" rel="noopener"}.
 
 ---
 ## Topologie I WS24/25
