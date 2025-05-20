@@ -20,7 +20,9 @@ Vorlesungsseite:
 [Blatt 1](/assets/pdf/TopologieSS25/Topologie_Blatt01.pdf){:target="_blank" rel="noopener"},
 [Blatt 2](/assets/pdf/TopologieSS25/Topologie_Blatt02.pdf){:target="_blank" rel="noopener"},
 [Blatt 3](/assets/pdf/TopologieSS25/Topologie_Blatt03.pdf){:target="_blank" rel="noopener"},
-[Blatt 4](/assets/pdf/TopologieSS25/Topologie_Blatt04.pdf){:target="_blank" rel="noopener"}.
+[Blatt 4](/assets/pdf/TopologieSS25/Topologie_Blatt04.pdf){:target="_blank" rel="noopener"},
+[Blatt 5](/assets/pdf/TopologieSS25/Topologie_Blatt05.pdf){:target="_blank" rel="noopener"},
+[Blatt 6](/assets/pdf/TopologieSS25/Topologie_Blatt06.pdf){:target="_blank" rel="noopener"}.
 
 ---
 ## Topologie I WS24/25
