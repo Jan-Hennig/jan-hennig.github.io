@@ -20,7 +20,6 @@ toc:
 - "Perfectoid spaces" in Oberseminar Algebraic Geometry "Perfectoid spaces", 30.06.2025, [link](https://www.math.uni-duesseldorf.de/~schroeer/25_ss_Oberseminar/Oberseminar_AlgebraischeGeometrie_ss2025.html)
 - "Spherical construction for GL_n" in Oberseminar Algebra und Geometrie "Buildings and classical groups", 13.06.2025, [link](https://www.math.uni-duesseldorf.de/~internet/OberseminarAlgGeo/)
 - "Rost-Schmid groups and Chow-Witt groups" in Motives Seminar (Essen) "Quadratic intersection theory and motivic linking", 04.06.2025, [link](https://www.esaga.net/marc.levine/Courses/2025/MotivesSeminarSS/)
-- "Quadratically refined intersection theory on $$\bar{M}_{0,n}$$" in Seminar on nonlinear algebra (MPI Leipzig), 04.04.2024, [link](https://www.mis.mpg.de/de/events/event/quadratically-refined-intersection-theory-on-m0n)
 
 ***
 
