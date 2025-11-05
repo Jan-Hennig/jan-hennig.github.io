@@ -4,7 +4,7 @@ permalink: /talks/
 title: Talks
 description: Collection of talks I gave in various seminars
 nav: true
-nav_order: 2
+nav_order: 3
 
 toc:
   - name: "2025"
