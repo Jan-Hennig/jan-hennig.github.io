@@ -4,7 +4,7 @@ permalink: /conferences/
 title: Conferences/summer schools
 description: Maybe you have seen me at one of the following events
 nav: true
-nav_order: 4
+nav_order: 5
 
 toc:
   - name: "2025"
