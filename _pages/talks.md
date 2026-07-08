@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 
 toc:
+  - name: "2026"
   - name: "2025"
   - name: "2024"
   - name: "2023"
@@ -14,6 +15,12 @@ toc:
   - name: "2021"
 
 ---
+
+## 2026
+
+- "Irreducible characters of GL_n(F_q)" in Oberseminar Algebra und Geometrie "Irreducible representations of various general linear groups", 03.07.2026, [link](https://www.math.uni-duesseldorf.de/~internet/OberseminarAlgGeo/)
+
+***
 
 ## 2025
 
@@ -26,7 +33,7 @@ toc:
 ## 2024
 
 - "The theorem of Jacobsen and $$\rho$$-stable homotopy modules" in Motives Seminar (Essen) "Motivic and real étale stable homotopy theory", 26.11.2024, [link](https://www.esaga.net/marc.levine/Courses/2024/MotivesSeminarWS/)
-- "Abstract class field theory" in Oberseminar Algebra und Geometrie "Local class field theory", 15.11.2024, [link](https://www.math.uni-duesseldorf.de/~internet/OberseminarAlgGeo/)
+- "Abstract class field theory" in Oberseminar Algebra und Geometrie "Local class field theory", 15.11.2024, [link](https://www.math.uni-duesseldorf.de/~internet/OberseminarAlgGeo/Archiv/Schedule_WS2425.php)
 - "The connection (Milnor's conjectures)" part of a three part mini-course "Quadratic forms and Galois cohomology" at GRK retreat, 12.09.2024, [link](https://www2.math.uni-wuppertal.de/~ruelling/GRK-Retreat2024/Program.html), [slides](/assets/pdf/Milnor_Conjectures_Short_Presentation_Handout.pdf){:target="_blank" rel="noopener"}
 - "A cellular (co)homology computation for $$\bar{M}_{0,n}$$" in Research program seminar, at PCMI/IAS 2024 Motivic homotopy theory (Park City, Utah, USA), 18.07.2024
 - "A weakly-cellular Whitehead tower and consequences" in Motives Seminar (Essen) "The motivic Freudenthal suspension theorem, following Asok, Bachmann and Hopkins", 04.06.2024, [link](https://www.esaga.net/marc.levine/Courses/2024/MotivesSeminarSS/)
