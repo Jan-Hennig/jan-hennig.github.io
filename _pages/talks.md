@@ -25,7 +25,7 @@ toc:
 ## 2025
 
 - "Perfectoid spaces" in Oberseminar Algebraic Geometry "Perfectoid spaces", 30.06.2025, [link](https://www.math.uni-duesseldorf.de/~schroeer/25_ss_Oberseminar/Oberseminar_AlgebraischeGeometrie_ss2025.html)
-- "Spherical construction for GL_n" in Oberseminar Algebra und Geometrie "Buildings and classical groups", 13.06.2025, [link](https://www.math.uni-duesseldorf.de/~internet/OberseminarAlgGeo/)
+- "Spherical construction for GL_n" in Oberseminar Algebra und Geometrie "Buildings and classical groups", 13.06.2025, [link](https://www.math.uni-duesseldorf.de/~internet/OberseminarAlgGeo/Archiv/Schedule_SS25.php)
 - "Rost-Schmid groups and Chow-Witt groups" in Motives Seminar (Essen) "Quadratic intersection theory and motivic linking", 04.06.2025, [link](https://www.esaga.net/marc.levine/Courses/2025/MotivesSeminarSS/)
 
 ***
@@ -38,7 +38,7 @@ toc:
 - "A cellular (co)homology computation for $$\bar{M}_{0,n}$$" in Research program seminar, at PCMI/IAS 2024 Motivic homotopy theory (Park City, Utah, USA), 18.07.2024
 - "A weakly-cellular Whitehead tower and consequences" in Motives Seminar (Essen) "The motivic Freudenthal suspension theorem, following Asok, Bachmann and Hopkins", 04.06.2024, [link](https://www.esaga.net/marc.levine/Courses/2024/MotivesSeminarSS/)
 - "Quadratically refined intersection theory on $$\bar{M}_{0,n}$$" in Seminar on nonlinear algebra (MPI Leipzig), 04.04.2024, [link](https://www.mis.mpg.de/de/events/event/quadratically-refined-intersection-theory-on-m0n)
-- "The second proof" in Oberseminar Algebraic Geometry "Irreducibility of the space of curves", 22.01.2024, [link](https://reh.math.uni-duesseldorf.de/~schroeer/23_ws_Oberseminar/Oberseminar_AlgebraischeGeometrie_ws2023.html)
+- "The second proof" in Oberseminar Algebraic Geometry "Irreducibility of the space of curves", 22.01.2024, [link](https://www.math.uni-duesseldorf.de/~schroeer/23_ws_Oberseminar/Oberseminar_AlgebraischeGeometrie_ws2023.html)
 - "The motivic Euler characteristic and transfer maps" in Motives Seminar (Essen) "An arithmetic Yau-Zaslow formula: K_0(Var_k), GW(k) and quadratic GW invariants", 09.01.2024, [link](https://www.esaga.net/marc.levine/Courses/2023/MotivesSeminarWS/)
 
 ***
@@ -51,7 +51,7 @@ toc:
 - "Comparison with unstable homotopy groups" at Talbot 2023 "Computations in stable motivic homotopy theory" (McGrath, MN, USA), 09.06.2023, [link](https://math.mit.edu/events/talbot/index.php?year=2023)
 - "Quadratic intersection theory on moduli spaces" in Advanced group theory seminar "What are you working on?", 23.05.2023, [link](https://www.math.uni-duesseldorf.de/~internet/Seminar_Groups/seminarS23.html)
 - "The Alexander polynomial" in Oberseminar Algebra und Geometrie "Knot theory and quandles", 12.05.2023, [link](https://www.math.uni-duesseldorf.de/~internet/OberseminarAlgGeo/Archiv/Schedule_SS23.html)
-- "Bounded t-structures and tilting" in Oberseminar Algebraic Geometry "Bridgeland stability conditions", 08.05.2023, [link](https://reh.math.uni-duesseldorf.de/~schroeer/23_ss_Oberseminar/Oberseminar_AlgebraischeGeometrie_ss2023.html)
+- "Bounded t-structures and tilting" in Oberseminar Algebraic Geometry "Bridgeland stability conditions", 08.05.2023, [link](https://www.math.uni-duesseldorf.de/~schroeer/23_ss_Oberseminar/Oberseminar_AlgebraischeGeometrie_ss2023.html)
 - "Motivic Eilenberg-MacLane spaces and cohomology operations" in Motives Seminar (Essen) "Motivic Steenrod operations", 18.04.2023, [link](https://www.esaga.uni-due.de/marc.levine/Courses/2023/MotivesSeminarSS/)
 
 ***
@@ -59,9 +59,9 @@ toc:
 ## 2022
 - "Chow-Witt rings of Grassmanians, III: Geometric interpretation of oriented intersection multiplicities" in Motives Seminar (Essen) "Quadratic intersection theory and characteristic classes", 13.12.2022, [link](https://www.esaga.net/marc.levine/Courses/2022/MotivesSeminarWS/)
 - "Computing the topological fundamental group" in GRK Workshop "Toric varieties", 10.11.2022, [link](https://www.math.uni-duesseldorf.de/~grk2240/workshop_WS2223.html)
-- "Global aspects" in Oberseminar Algebraic Geometry "Elliptic surfaces", 31.10.2022, [link](https://reh.math.uni-duesseldorf.de/~schroeer/22_ws_Oberseminar/Oberseminar_AlgebraischeGeometrie_ws2022.html)
+- "Global aspects" in Oberseminar Algebraic Geometry "Elliptic surfaces", 31.10.2022, [link](https://www.math.uni-duesseldorf.de/~schroeer/22_ws_Oberseminar/Oberseminar_AlgebraischeGeometrie_ws2022.html)
 - "Buildings" in GRK Workshop "Buildings", 02.06.2022, [link](https://www.math.uni-duesseldorf.de/~grk2240/workshop_SS22.html)
-- "Bittner's presentation" in Oberseminar Algebraic Geometry "Motivic integration", 23.05.2022, [link](https://reh.math.uni-duesseldorf.de/%7Eschroeer/22_ss_Oberseminar/Oberseminar_AlgebraischeGeometrie_ss2022.html)
+- "Bittner's presentation" in Oberseminar Algebraic Geometry "Motivic integration", 23.05.2022, [link](https://www.math.uni-duesseldorf.de/%7Eschroeer/22_ss_Oberseminar/Oberseminar_AlgebraischeGeometrie_ss2022.html)
 - "A bit Chow-Witt and quadratically refined enumerative geometry" in GRK non-professor meeting, 14.04.2022, [link](https://www.math.uni-duesseldorf.de/~grk2240/schedule_SS22.html)
 
 *** 
