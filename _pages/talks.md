@@ -18,6 +18,7 @@ toc:
 
 ## 2026
 
+- "Short intro to derived categories" part of a three part mini-course "Derived categories of coherent sheaves" at GRK retreat, 16.09.2026, [link](https://www.grk2240.github.io), [slides](/assets/pdf/Derived_Categories_Short_Presentation_Handout.pdf){:target="_blank" rel="noopener"}
 - "Irreducible characters of GL_n(F_q)" in Oberseminar Algebra und Geometrie "Irreducible representations of various general linear groups", 03.07.2026, [link](https://www.math.uni-duesseldorf.de/~internet/OberseminarAlgGeo/)
 
 ***
