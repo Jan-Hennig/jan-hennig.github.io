@@ -12,7 +12,16 @@ toc:
   - name: "Homologische Algebra SS24"
 ---
 
-## Topologie II SS24/25
+## Einführung in die Topologie WS26/27
+Vorlesungsseite: 
+[link](https://www.math.uni-duesseldorf.de/~zibrowius/2026ws_top0.html)
+
+Übungsblätter:
+[Blatt 0](/assets/pdf/TopologieWS2627/Topologie_Blatt00.pdf){:target="_blank" rel="noopener"},
+[Blatt 1](/assets/pdf/TopologieWS2627/Topologie_Blatt01.pdf){:target="_blank" rel="noopener"}.
+
+---
+## Topologie II SS25
 Vorlesungsseite: 
 [link](https://www.math.uni-duesseldorf.de/~zibrowius/2024ws_top.html)
 
